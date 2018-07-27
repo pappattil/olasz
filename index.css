@@ -7,9 +7,7 @@
     margin: auto;
     text-align: center;
 }
-img{
-    margin: auto;
-}
+
 
 .modal{
     font-family: sans-serif, serif;
@@ -160,4 +158,13 @@ img{
     
  height: 5em;
     width: auto;
+}
+img{
+    margin: auto;
+}
+a{
+    color: gray;
+}
+a:hover{
+ color: black;
 }

@@ -1,6 +1,16 @@
-* {
-  box-sizing: border-box;
-    }
+*{
+	box-sizing: border-box;
+}
+.br{
+
+ display: inline;
+    margin: auto;
+    text-align: center;
+}
+img{
+    margin: auto;
+}
+
 .modal{
     font-family: sans-serif, serif;
     font-size: 2rem;
@@ -39,9 +49,10 @@
 }
  .cover {
   display:table;
-  background-image: url("https://i.imgur.com/vNhLDQx.png");
-  background-size:cover;
-  background-position: center;
+  background-image: url("https://www.kezikonyvunk.hu/wp-content/uploads/g.szab%C3%B3istv%C3%A1nfest%C5%91m%C3%A1zol%C3%B3tap%C3%A9t%C3%A1z%C3%B3.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
   background-color:white;
   height: 70vh;
   width:100%;
@@ -60,7 +71,7 @@
      width: 80%;
      margin: auto;
   background-color:hsla(100,0%,0%,.7);
-  text-shadow: 2px 2px 100px red;
+  text-shadow: 2px 2px 100px blue;
 }
   .line{
   color:black;

@@ -1,2 +1,2 @@
-# Olasz József
-honlapsablon
+# Olasz József site
+sablon
